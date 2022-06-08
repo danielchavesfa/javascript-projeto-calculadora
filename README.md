@@ -1,8 +1,7 @@
 # Calculadora JavaScript
 
-[![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
+Calculadora em SVG, programada em JavaScript.
 
-Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.com.
+![unknown_2022 06](https://user-images.githubusercontent.com/93630038/172530400-c4a9d41e-fef0-49b7-8254-47bd5f982432.gif)
 
-### Projeto
-![Calculadora](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/calculadora-hcode.jpg?alt=media&token=5406aa3f-b965-401c-9b4e-654609c78b33)
+Curso da [Hcode](https://github.com/hcodebr) Treinamentos
